@@ -1,0 +1,110 @@
+Long,Lat,Observer,GeneralCondition,Species,OtherSpecies,TreeHeight,TreeDBH1,TreeDBH2,TreeDBH3,TreeDBH4,LengthCWD,CrownDensity,DeadBranches,EpicormicGrowth,EpicormicPostFire,NoHollows,LeafDiscolouration,AvgPsyllidTree,AvgPsyllidRegen,PresenceTreeShrubs,PresenceReproduction,Comments,PlotID,TreeID,GlobalID,NoMistletoe,DeadTrees,CreationDate,Creator,EditDate,Editor,DateCreated
+149.1799025,-35.17271676,"Ab
+",,Eucalyptus melliodora,,,144,,,,,9,3,,,0,,,,,,,TN_15_C,,{b8f4a3b8-005a-4145-b61f-bbb8db7a2ab1},2,,25:59.0,brett.howland_ACTGOV,25:59.0,brett.howland_ACTGOV,
+149.1802058,-35.17283166,Ab,,Eucalyptus melliodora,,,82,,,,,9,5,,,0,,,,,,,TN_15_C,,{54a7edde-f1fd-4c1b-a3a6-4ed7c4d9db87},0,,25:59.0,brett.howland_ACTGOV,25:59.0,brett.howland_ACTGOV,
+149.1800613,-35.17281082,Ab,,Eucalyptus melliodora,,,48,,,,,9,3,,,0,,,,,,,TN_15_C,,{315fdc9b-c2a5-4335-81b3-885a8ef5b1f4},1,,25:59.0,brett.howland_ACTGOV,25:59.0,brett.howland_ACTGOV,
+149.1744685,-35.17518388,Ab,,Eucalyptus blakelyi,,,143,,,,,3,2,,,8,,,,,,,TN_3_C,,{8cd37a33-35d5-4127-8d47-8ab4306926a6},0,,25:59.0,brett.howland_ACTGOV,25:59.0,brett.howland_ACTGOV,
+149.1698178,-35.17056917,Ab,,Eucalyptus blakelyi,,,65,,,,,1,2,,,0,,,,,,Leaves discoloured 100 epicormic growth,TN_1_C,,{68ec9777-f3f9-4c2b-b045-efe568aa6dd9},5,,25:59.0,brett.howland_ACTGOV,25:59.0,brett.howland_ACTGOV,
+149.1697827,-35.17078917,Ab,,Eucalyptus melliodora,,,40,53,27,,,7,5,,,0,,,,,,,TN_1_C,,{43d7f510-e30f-4d82-8463-4ea17170ae40},3,,25:59.0,brett.howland_ACTGOV,25:59.0,brett.howland_ACTGOV,
+149.168241,-35.180477,Ab,,Eucalyptus melliodora,,,95,,,,,5,2,,,0,,,,,,,TN_6_C,,{ae916b4c-722f-4658-b7be-b2500e133492},0,,25:59.0,brett.howland_ACTGOV,25:59.0,brett.howland_ACTGOV,
+149.1683268,-35.18043783,Ab,,Eucalyptus blakelyi,,,80,29,,,,1,2,,,0,,,,,,,TN_1_C,,{935ad922-88ab-4e33-855e-804b4aec5a62},0,,25:59.0,brett.howland_ACTGOV,25:59.0,brett.howland_ACTGOV,
+149.1685442,-35.18049967,AB,,Eucalyptus melliodora,,,40,,,,,5,3,,,0,,,,,,,TN_6_C,,{9f44f082-6c77-4202-810b-21fec55dbba5},0,,25:59.0,brett.howland_ACTGOV,25:59.0,brett.howland_ACTGOV,
+149.1761027,-35.21016933,Ab,,Eucalyptus mannifera,,88,88,,,,,9,4,,,2,,,,,,,KB_3_C,,{76697511-9cf3-45d6-97dc-a6dc4a26c473},1,,46:39.3,brett.howland_ACTGOV,46:39.3,brett.howland_ACTGOV,15/05/2020 2:00
+149.176283,-35.21019067,AB,,Eucalyptus melliodora,,,43,61,,,,9,4,,,0,,,,,,,KB_3_C,,{97c51558-da82-4274-9003-0c55cafdd800},6,,48:55.3,brett.howland_ACTGOV,48:55.3,brett.howland_ACTGOV,15/05/2020 2:00
+149.176311,-35.21021276,Ab,,Eucalyptus melliodora,,,70,,,,,9,5,,,0,,,,,,,KB_3_C,,{72d61c37-816f-4bf8-bca5-b6132b17d58c},4,,50:43.1,brett.howland_ACTGOV,50:43.1,brett.howland_ACTGOV,15/05/2020 2:00
+149.175988,-35.210142,TO,,Eucalyptus melliodora,,,101,,,,,3,3,,,6,,,,,,,KB_3_C,,{c2c4761b-4593-42f1-b891-5ef01b60365f},18,,58:24.2,brett.howland_ACTGOV,58:24.2,brett.howland_ACTGOV,15/05/2020 2:00
+149.176021,-35.20995467,TO,,Eucalyptus melliodora,,,54,,,,,5,4,,,0,,,,,,,,,{2b95f530-8685-4eb2-a811-2e3f6345136f},4,,05:51.2,brett.howland_ACTGOV,05:51.2,brett.howland_ACTGOV,15/05/2020 2:00
+149.1760425,-35.20988666,To,,Eucalyptus melliodora,,,51,,,,,7,4,,,0,,,,,,,,,{b3f17449-2d1d-4100-a88f-68dda7e3e4ca},0,,08:36.3,brett.howland_ACTGOV,08:36.3,brett.howland_ACTGOV,15/05/2020 2:00
+149.175797,-35.20996017,To,,Eucalyptus melliodora,,,61,,,,,3,3,,,0,,,,,,,,,{e82bbf6e-9c60-4ec8-93d6-a825348808e0},2,,12:19.0,brett.howland_ACTGOV,12:19.0,brett.howland_ACTGOV,15/05/2020 2:00
+149.1757012,-35.21002833,To,,Eucalyptus mannifera,,,61,,,,,7,3,,,1,,,,,,,,,{6b5fec71-c1f9-4c83-8f08-a50b79a6fbd3},0,,18:24.6,brett.howland_ACTGOV,18:24.6,brett.howland_ACTGOV,15/05/2020 2:00
+149.1756572,-35.21023267,To,,Eucalyptus macrorhyncha,,,64,,,,,1,1,,,8,,,,,,,,,{f67d272b-4e1b-41c1-9e3d-9ddfebacc88e},0,,21:11.1,brett.howland_ACTGOV,21:11.1,brett.howland_ACTGOV,15/05/2020 2:00
+149.1756588,-35.2105475,To,,Eucalyptus mannifera,,,66,75,,,,7,4,,,0,,,,,,,,,{b48e89ee-27cb-4aa8-a17a-67509ea931ae},2,,27:49.9,brett.howland_ACTGOV,27:49.9,brett.howland_ACTGOV,15/05/2020 2:00
+149.1754963,-35.2104505,To,,Eucalyptus mannifera,,,53,,,,,7,4,,,4,,,,,,,,,{6e741a8a-b3d4-4012-a164-eb98a209b4ee},0,,33:12.8,brett.howland_ACTGOV,33:12.8,brett.howland_ACTGOV,15/05/2020 2:00
+149.1755825,-35.2106025,To,,Eucalyptus blakelyi,,,133,,,,,5,3,,,1,,,,,,,,,{874018de-d56b-42da-bb83-ee9cbd279159},0,,39:56.7,brett.howland_ACTGOV,39:56.7,brett.howland_ACTGOV,15/05/2020 2:00
+149.175528,-35.21066067,To,,Eucalyptus rossii,,,72,,,,,3,3,,,5,,,,,,,,,{01b1eb45-4f24-4369-b949-cc322484cf7f},0,,49:11.9,brett.howland_ACTGOV,49:11.9,brett.howland_ACTGOV,15/05/2020 2:00
+149.1755372,-35.210645,To,,Eucalyptus melliodora,,,40,75,,,,7,4,,,1,,,,,,,,,{2874f122-2d46-410b-b81a-35d22ba2bdfb},5,,54:04.3,brett.howland_ACTGOV,54:04.3,brett.howland_ACTGOV,15/05/2020 2:00
+149.1751892,-35.21044333,To,,Other species,,,53,,,,,1,1,,,9,,,,,,No species known as dead,,,{304d8cee-7cda-4b4d-93d0-3c3e4add8e17},0,6,57:41.9,brett.howland_ACTGOV,57:41.9,brett.howland_ACTGOV,15/05/2020 2:00
+149.1741556,-35.20845176,To,,Eucalyptus melliodora,,,103,,,,,5,4,,,0,,,,,,,,,{549d7e37-dcb4-42d6-a6c1-b7a0d222c619},0,,07:21.7,brett.howland_ACTGOV,07:21.7,brett.howland_ACTGOV,15/05/2020 2:00
+149.1737063,-35.20747633,To,,Eucalyptus melliodora,,,57,,,,,3,3,,,0,,,,,,,KB_1_C,,{691ce415-fec4-443d-89c3-e68f1e740c49},0,,11:41.4,brett.howland_ACTGOV,11:41.4,brett.howland_ACTGOV,15/05/2020 2:00
+149.1711778,-35.17240133,Ec,,Eucalyptus melliodora,,16,85,,,,,5,3,,,1,,,,,,,TN_TreeC,,{c900d6e2-d1be-4e2c-9e51-8d1a9f652781},1,,25:40.1,brett.howland_ACTGOV,25:40.1,brett.howland_ACTGOV,20/05/2020 2:00
+149.1742833,-35.1724735,Ec,,Eucalyptus bridgesiana,,21,185,,,,,7,4,,,4,,,,,,,,,{3a112dfd-d188-4324-bfaa-40e5febe86e0},1,,37:41.8,brett.howland_ACTGOV,37:41.8,brett.howland_ACTGOV,20/05/2020 2:00
+149.1745715,-35.17196067,EC,,Eucalyptus melliodora,,13,80,65,,,,7,4,,,1,,,,,,,,,{ff2076e3-603b-4811-9eaa-98f8ff06581f},0,,41:41.4,brett.howland_ACTGOV,41:41.4,brett.howland_ACTGOV,20/05/2020 2:00
+149.1690499,-35.18010429,Ec,,Other species,Unknown dead,12,86,,,,,1,1,,,,,,,,,,TN_13_C,,{572830b3-697b-438b-a70f-3291fb04a2cd},,6,56:25.2,brett.howland_ACTGOV,56:25.2,brett.howland_ACTGOV,20/05/2020 2:00
+149.1690612,-35.17999832,Ec,,Eucalyptus blakelyi,,10,37,,,,,3,3,,,0,,,,,,,TN_13_C,,{c9ea5641-c708-4587-a2a8-5ab9297a9255},0,,58:26.1,brett.howland_ACTGOV,58:26.1,brett.howland_ACTGOV,20/05/2020 2:00
+149.1706043,-35.18062433,Ec,,Eucalyptus melliodora,,18,90,,,,,3,2,,,3,,,,,,,TN_TreeD,,{1439d145-7e6b-4dda-8854-e15480075c9a},0,,19:26.8,brett.howland_ACTGOV,19:26.8,brett.howland_ACTGOV,20/05/2020 2:00
+149.168177,-35.18047933,Ec,,Eucalyptus blakelyi,,14,63,,,,,1,1,,,2,,,,,,,TN_6_C,,{86d1d910-b68c-48d6-aefc-46976e7e1c25},0,,19:30.7,brett.howland_ACTGOV,19:30.7,brett.howland_ACTGOV,20/05/2020 2:00
+149.1682407,-35.180298,Ec,,Eucalyptus melliodora,,15,84,,,,,5,3,,,2,,,,,,,TN_6_C,,{ed16d4ce-a179-4d30-86e1-2cb009a25abc},0,,19:35.1,brett.howland_ACTGOV,19:35.1,brett.howland_ACTGOV,20/05/2020 2:00
+149.1683828,-35.18035133,Ec,,Eucalyptus blakelyi,,14,91,,,,,1,1,,,8,,,,,,,TN_6_C,,{eb36a674-8b77-45c0-99d9-4c08cfd90b54},0,,19:38.8,brett.howland_ACTGOV,19:38.8,brett.howland_ACTGOV,20/05/2020 2:00
+149.1669107,-35.18236783,Ec,,Eucalyptus rossii,,14,79,,,,,1,1,,,2,,,,,,,TN_8_C,,{690add0d-8f53-45d8-a116-f6fe956b5b30},0,,19:42.6,brett.howland_ACTGOV,19:42.6,brett.howland_ACTGOV,20/05/2020 2:00
+149.1708372,-35.18090467,EC,,Eucalyptus melliodora,,17,114,,,,,7,4,,,5,,,,,,,TN_TreeD,,{6f2f6b0a-0889-4295-bb13-e6f4897678d3},0,,19:49.8,brett.howland_ACTGOV,19:49.8,brett.howland_ACTGOV,20/05/2020 2:00
+149.1709442,-35.18060483,Ec,,Eucalyptus melliodora,,18,97,,,,,7,4,,,1,,,,,,,TN_TreeD,,{d8c9b54f-3fde-4e46-a34a-c9c3b45d3ce8},0,,19:56.0,brett.howland_ACTGOV,19:56.0,brett.howland_ACTGOV,20/05/2020 2:00
+149.1674517,-35.18240917,Ec,,Other species,Unknown dead,14,72,,,,,1,1,,,8,,,,,,,TN_8_C,,{f11ffa19-363f-4e8b-8ba7-af0e598636b3},0,6,27:28.1,brett.howland_ACTGOV,27:28.1,brett.howland_ACTGOV,20/05/2020 2:00
+149.1671755,-35.18253467,Ec,,Eucalyptus blakelyi,,11,65,47,,,,3,3,,,3,,,,,,,TN_8_C,,{446087ad-e738-4e1d-85f1-d8c8ba9435bc},0,,27:33.8,brett.howland_ACTGOV,27:33.8,brett.howland_ACTGOV,20/05/2020 2:00
+149.1695489,-35.18352414,Ec,,Eucalyptus melliodora,,17,93,,,,,5,4,,,7,,,,,,,TN_9_C,,{93e7342d-c028-4af4-8db0-d9a559407df9},0,,38:49.6,brett.howland_ACTGOV,38:49.6,brett.howland_ACTGOV,20/05/2020 2:00
+149.169217,-35.18613517,Ec,,Eucalyptus melliodora,,14,93,,,,,1,1,,,12,,,,,,,TN_10_C,,{67ee5a30-b182-42a0-b027-8a7ec655bcbe},0,,48:24.0,brett.howland_ACTGOV,48:24.0,brett.howland_ACTGOV,20/05/2020 2:00
+149.1690964,-35.18627637,Ec,,Other species,Unknown dead,9,47,143,28,,,1,1,,,6,,,,,,,TN_10_C,,{1bfb69c9-1494-403b-8b37-6f0f1267446e},0,6,50:42.7,brett.howland_ACTGOV,50:42.7,brett.howland_ACTGOV,20/05/2020 2:00
+149.1697452,-35.191778,Ec,,Eucalyptus melliodora,,11,113,,,,,7,4,,,7,,,,,,,TE_1_C,,{7497b958-91f8-437e-b2fe-b6218e36560f},0,,07:40.4,brett.howland_ACTGOV,07:40.4,brett.howland_ACTGOV,21/05/2020 2:00
+149.1700035,-35.19194467,EC,,Eucalyptus melliodora,,24,119,,,,,5,3,,,1,,,,,,,TE_1_C,,{3dc13450-0232-433b-967c-82e3ae569c47},0,,12:00.9,brett.howland_ACTGOV,12:00.9,brett.howland_ACTGOV,21/05/2020 2:00
+149.1700375,-35.19170317,Ec,,Other species,Unknown dead,9,84,,,,,1,1,,,9,,,,,,,TE_1_C,,{c7c672b6-dcae-4f5a-b54b-a96581fa6dfa},0,6,15:29.3,brett.howland_ACTGOV,15:29.3,brett.howland_ACTGOV,21/05/2020 2:00
+149.1701148,-35.19167217,Ec,,Eucalyptus blakelyi,,14,104,,,,,5,3,,,8,,,,,,,TE_1_C,,{dd62b172-a971-4e91-8950-2254cafc7326},0,,19:36.9,brett.howland_ACTGOV,19:36.9,brett.howland_ACTGOV,21/05/2020 2:00
+149.1690023,-35.19441783,Ec,,Eucalyptus rossii,,18,117,,,,,5,3,,,15,,,,,,,TE_2_C,,{f091a569-5859-4460-8e92-c4b10c7b2a44},1,,32:29.0,brett.howland_ACTGOV,32:29.0,brett.howland_ACTGOV,21/05/2020 2:00
+149.1686,-35.19430133,EC,,Eucalyptus blakelyi,,11,73,,,,,3,2,,,3,,,,,,,TE_2_C,,{59ece5b1-fe1f-4fe3-a828-a78b341069fa},0,,36:10.4,brett.howland_ACTGOV,36:10.4,brett.howland_ACTGOV,21/05/2020 2:00
+149.1682107,-35.194374,Ec,,Eucalyptus blakelyi,,14,109,,,,,5,3,,,5,,,,,,,TE_2_C,,{63c05a29-3c7a-4ab2-a964-7284cf414fad},0,,40:50.6,brett.howland_ACTGOV,40:50.6,brett.howland_ACTGOV,21/05/2020 2:00
+149.1681362,-35.19464894,Ec,,Eucalyptus blakelyi,,15,100,,,,,3,2,,,2,,,,,,,TE_2_C,,{a628ea25-8a4d-4681-b544-a58ccd5c0273},0,,44:57.7,brett.howland_ACTGOV,44:57.7,brett.howland_ACTGOV,21/05/2020 2:00
+149.1762438,-35.19610833,EC,,Eucalyptus blakelyi,,20,122,,,,,1,1,,,9,,,,,,,TE_10_C,,{07f3a29e-d39c-4d7a-a9d9-0532a4a3604e},2,,02:59.3,brett.howland_ACTGOV,02:59.3,brett.howland_ACTGOV,21/05/2020 2:00
+149.1770808,-35.1961535,EC,,Eucalyptus blakelyi,,7,48,,,,,5,4,,,0,,,,,,,TE_10_C,,{de00ec4d-6b12-4c75-9dfd-1d54f363ecf2},8,,09:59.3,brett.howland_ACTGOV,09:59.3,brett.howland_ACTGOV,21/05/2020 2:00
+149.1770092,-35.19609,Ec,,Eucalyptus blakelyi,,15,104,,,,,5,3,,,6,,,,,,,TE_10_C,,{f7ec3a89-bd75-44ef-8006-8a9cf36ab9ff},8,,15:07.0,brett.howland_ACTGOV,15:07.0,brett.howland_ACTGOV,21/05/2020 2:00
+149.1768313,-35.19824616,Ec,,Eucalyptus blakelyi,,8,103,,,,,1,1,,,1,,,,,,,TE_4_C,,{6ccbf591-73f6-4895-a263-80dd44aa1785},0,,31:01.5,brett.howland_ACTGOV,31:01.5,brett.howland_ACTGOV,21/05/2020 2:00
+149.1773743,-35.19818483,Ec,,Eucalyptus blakelyi,,13,89,,,,,5,3,,,0,,,,,,,TE_4_C,,{f5ebeebc-153c-475c-afde-cec4bfde8975},0,,33:57.0,brett.howland_ACTGOV,33:57.0,brett.howland_ACTGOV,21/05/2020 2:00
+149.1763695,-35.20135567,Ec,,Eucalyptus blakelyi,,8,39,,,,,9,4,,,0,,,,,,,TE_8_C,,{ce1c2e5d-8351-4cb4-abcb-b636f3d98321},0,,43:51.6,brett.howland_ACTGOV,43:51.6,brett.howland_ACTGOV,21/05/2020 2:00
+149.1761872,-35.20151265,Ec,,Eucalyptus melliodora,,11,85,,,,,5,3,,,2,,,,,,,TE_8_C,,{cdecf7f9-091c-4e88-8291-53ce3aa20980},0,,46:27.9,brett.howland_ACTGOV,46:27.9,brett.howland_ACTGOV,21/05/2020 2:00
+149.1764448,-35.20143647,EC,,Eucalyptus blakelyi,,6,39,,,,,5,5,,,0,,,,,,,TE_8_C,,{3a1d87b1-87ad-46f1-9cec-22f1bedc34c4},0,,48:31.1,brett.howland_ACTGOV,48:31.1,brett.howland_ACTGOV,21/05/2020 2:00
+149.1765049,-35.20110978,Ec,,Eucalyptus melliodora,,11,90,,,,,3,3,,,0,,,,,,,TE_8_C,,{9b621375-2a34-4ff9-9127-4bede257d171},0,,50:42.6,brett.howland_ACTGOV,50:42.6,brett.howland_ACTGOV,21/05/2020 2:00
+149.1766309,-35.20120559,Ec,,Eucalyptus melliodora,,18,157,,,,,5,3,,,7,,,,,,,TE_8_C,,{b76fd7a8-95ae-4d0b-885f-b7d548215a0c},33,,56:28.3,brett.howland_ACTGOV,56:28.3,brett.howland_ACTGOV,21/05/2020 2:00
+149.1773201,-35.19962444,EC,,Eucalyptus melliodora,,13,103,,,,,5,4,,,0,,,,,,,TE_6_C,,{e10cfa0d-8a05-480f-bc65-63bc467dc87b},0,,06:08.2,brett.howland_ACTGOV,06:08.2,brett.howland_ACTGOV,21/05/2020 2:00
+149.1774141,-35.19941742,Ec,,Eucalyptus blakelyi,,13,106,,,,,5,3,,,2,,,,,,,TE_6_C,,{50449773-79ad-4b30-839e-b8064fd7a24c},1,,07:57.9,brett.howland_ACTGOV,07:57.9,brett.howland_ACTGOV,21/05/2020 2:00
+149.1774141,-35.19941742,Ec,,Eucalyptus blakelyi,,13,106,,,,,5,3,,,2,,,,,,,TE_6_C,,{7ce68fa4-c0d2-4616-8db6-425dd9777d14},1,,09:05.6,brett.howland_ACTGOV,09:05.6,brett.howland_ACTGOV,21/05/2020 2:00
+149.1777275,-35.19943483,Ec,,Eucalyptus blakelyi,,20,127,,,,,3,2,,,7,,,,,,,TE_6_C,,{c197a77d-83cb-45ee-bae5-96b3d50167a8},0,,12:03.5,brett.howland_ACTGOV,12:03.5,brett.howland_ACTGOV,21/05/2020 2:00
+149.1727231,-35.20011353,Ec,,Eucalyptus melliodora,,20,122,,,,,7,3,,,3,,,,,,,TE_7_C,,{331bc269-0bf0-4f1c-a532-3ecb9688d591},0,,26:43.3,brett.howland_ACTGOV,26:43.3,brett.howland_ACTGOV,21/05/2020 2:00
+149.1715903,-35.20086063,Ec,,Other species,Unknown dead,13,114,,,,,1,1,,,5,,,,,,,TE_7_C,,{f28fcead-78db-4c8e-868b-76ec3de452b2},0,6,29:36.0,brett.howland_ACTGOV,29:36.0,brett.howland_ACTGOV,21/05/2020 2:00
+149.1737316,-35.20083618,EC,,Eucalyptus blakelyi,,8,78,,,,,5,4,,,1,,,,,,,TE_TreeA,,{3db46e34-c5e4-4ee6-aeed-365bce874a35},0,,35:16.2,brett.howland_ACTGOV,35:16.2,brett.howland_ACTGOV,21/05/2020 2:00
+149.1753887,-35.2105325,TO,,Eucalyptus mannifera,,11,41,,,,,7,4,,,3,,,,,,,,,{5de4d228-5a47-4a2e-a695-d0f1acfe6277},0,,32:12.2,brett.howland_ACTGOV,32:12.2,brett.howland_ACTGOV,25/05/2020 2:00
+149.1753618,-35.21041817,To,,Eucalyptus mannifera,,,112,,,,,7,3,,,3,,,,,,,,,{d791f086-2239-4267-afbe-4328db91747e},0,,34:02.2,brett.howland_ACTGOV,34:02.2,brett.howland_ACTGOV,25/05/2020 2:00
+149.1754732,-35.210411,To,,Other species,Dead,12,76,,,,,1,1,,,6,,,,,,,,,{e3c695ed-77a7-49fe-a596-5bf81d7edda0},0,6,37:34.4,brett.howland_ACTGOV,37:34.4,brett.howland_ACTGOV,25/05/2020 2:00
+149.1754557,-35.210478,TO,,Eucalyptus mannifera,,11,48,,,,,7,4,,,2,,,,,,,,,{310183d9-56ec-42b8-a56e-02e98c27a371},0,,40:05.0,brett.howland_ACTGOV,40:05.0,brett.howland_ACTGOV,25/05/2020 2:00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
